@@ -6,6 +6,9 @@
 ## Prerequisites
 The **UI5 build and development tooling command line interface (UI5 CLI)** has to be installed.
 For installation instructions please see [Installing the UI5 CLI](https://github.com/SAP/ui5-tooling#installing-the-ui5-cli).
+```
+npm install --global @ui5/cli
+```
 
 ## Setup
 1. Clone the repository and navigate into it
